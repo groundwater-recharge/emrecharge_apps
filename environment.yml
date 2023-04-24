@@ -1,0 +1,24 @@
+name: emrecharge_apps
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8.10
+  - jupyterhub=1.5
+  - cython
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - SimPEG
+  - ipykernel
+  - ipywidgets
+  - ipympl
+  - discretize
+  - pip
+  - pip:
+      - python-dotenv
+      - curvenote
+      - google-resumable-media
+      - emrecharge
