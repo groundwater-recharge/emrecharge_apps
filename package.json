@@ -1,0 +1,27 @@
+{
+  "name": "emrecharge_apps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational applications for the groundwater recharge project.",
+  "main": "index.js",
+  "scripts": {
+    "snapshot": "npx ts-node snapshots.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groundwater-recharge/emrecharge_apps.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/groundwater-recharge/emrecharge_apps/issues"
+  },
+  "homepage": "https://github.com/groundwater-recharge/emrecharge_apps#readme",
+  "dependencies": {
+    "glob": "^10.3.1",
+    "puppeteer": "^20.7.4"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^7.0.4"
+  }
+}

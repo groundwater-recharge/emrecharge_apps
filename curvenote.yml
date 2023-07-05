@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Educational Materials
+  # description:
+  keywords: []
+  authors:
+    - name: Seogi Kang
+    - name: Meredith Geobel
+  github: https://github.com/groundwater-recharge/emrecharge_apps
+  # bibliography: []
+  thebe:
+    binder:
+      url: https://xhrtcvh6l53u.curvenote.dev/services/binder/
+      repo: groundwater-recharge/emrecharge_apps
+      ref: HEAD
+  abbreviations:
+    DOI: Depth of Investigation
+    AEM: Airbourne Electromagnetic
+    TTEM: Towed Transient Electomagnetic
+    EM: Electromagnetic
+site:
+  template: book-theme
+  title: Groundwater Recharge EM
+  logo_text: Groundwater Recharge EM
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains:
+    - groundwater-apps.curve.space

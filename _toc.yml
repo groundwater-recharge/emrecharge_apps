@@ -1,0 +1,36 @@
+# Table of Contents
+#
+# Myst will respect:
+# 1. New pages
+#      - file: relative/path/to/page
+# 2. New sections without an associated page
+#      - title: Folder Title
+#        sections: ...
+# 3. New sections with an associated page
+#      - file: relative/path/to/page
+#        sections: ...
+#
+# Note: Titles defined on pages here are not recognized.
+#
+# This spec is based on the JupyterBook table of contents.
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+  - title: Apps
+    sections:
+      - file: app_em_depth_of_investigation.md
+      - file: app_em_detectability.md
+      - file: app_em_inversion.md
+      - file: app_recharge_metrics.md
+      - file: app_rock_physics_resistivity.md
+      - file: app_rock_physics_resistivity_to_fcd.md
+  - title: Supporting Notebooks
+    sections:
+      - file: nb_em_depth_of_investigation.ipynb
+      - file: nb_em_detectability_app.ipynb
+      - file: nb_em_inversion_app.ipynb
+      - file: nb_recharge_metrics.ipynb
+      - file: nb_rock_physics_resistivity.ipynb
+      - file: nb_rock_physics_resistivity_to_fcd.ipynb
