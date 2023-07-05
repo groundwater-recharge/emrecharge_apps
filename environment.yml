@@ -1,5 +1,4 @@
 name: emrecharge_apps
-
 channels:
   - conda-forge
   - defaults
