@@ -15,6 +15,7 @@ dependencies:
   - ipywidgets
   - ipympl
   - discretize
+  - dill
   - pip
   - pip:
       - emrecharge
