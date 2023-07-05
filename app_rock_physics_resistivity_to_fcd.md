@@ -13,5 +13,5 @@ Add a caption here
 
 ### App Parameters
 
-- $\rho_{FD}$: resistivity of the fine-dominated
-- $\rho_{CD}$: resistivity of the coarse-dominated
+- `rho_FD`: resistivity of the fine-dominated
+- `rho_CD`: resistivity of the coarse-dominated
