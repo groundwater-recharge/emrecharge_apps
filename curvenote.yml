@@ -11,7 +11,7 @@ project:
   # bibliography: []
   thebe:
     binder:
-      url: https://xhrtcvh6l53u.curvenote.dev/services/binder/
+      url: https://recharge-educational-apps-hub.curvenote.dev/services/binder/
       repo: groundwater-recharge/emrecharge_apps
       ref: HEAD
   abbreviations:
@@ -20,7 +20,9 @@ project:
     TTEM: Towed Transient Electomagnetic
     EM: Electromagnetic
 site:
-  template: book-theme
+  template: article-theme
+  hide_toc: true
+  hide_footer: true
   title: Groundwater Recharge EM
   logo_text: Groundwater Recharge EM
   nav: []
