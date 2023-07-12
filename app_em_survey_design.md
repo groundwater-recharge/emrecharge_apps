@@ -8,7 +8,7 @@ By combining the three other apps: 1) detectability, 2) inversion, 3) depth of i
 
 ## Interactive App
 
-```{figure} #app-survey-design
+```{figure} #app-em-survey-design
 ```
 
 ## Usage
