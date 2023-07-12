@@ -20,7 +20,7 @@ project:
     TTEM: Towed Transient Electomagnetic
     EM: Electromagnetic
 site:
-  template: article-theme
+  template: book-theme
   hide_toc: true
   hide_footer: true
   title: Groundwater Recharge EM
