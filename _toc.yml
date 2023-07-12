@@ -23,6 +23,7 @@ chapters:
       - file: app_em_detectability.md
       - file: app_em_inversion.md
       - file: app_em_depth_of_investigation.md      
+      - file: app_em_survey_design.md      
       - file: app_rock_physics_resistivity.md
       - file: app_rock_physics_resistivity_to_fcd.md
       - file: app_recharge_metrics.md      
@@ -31,6 +32,7 @@ chapters:
       - file: nb_em_detectability_app.ipynb
       - file: nb_em_inversion_app.ipynb
       - file: nb_em_depth_of_investigation.ipynb
+      - file: nb_em_survey_design.ipynb
       - file: nb_rock_physics_resistivity.ipynb
       - file: nb_rock_physics_resistivity_to_fcd.ipynb
       - file: nb_recharge_metrics.ipynb
