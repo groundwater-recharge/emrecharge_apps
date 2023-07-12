@@ -1,13 +1,14 @@
 ---
-title: EM Inversion
+title: EM Survey Design
 subject: interactive app
 ---
 
-Inversion is a process to find a model of subsurface resistivity that can fit the observed EM data. Two major goals of the inversion is 1) fitting the data for a given level of data errors/noise and 2) constraining resistivity values to vary smoothly in space. This app provides a capability to conduct 1D EM inversion. By inverting two voltage curves (i.e. EM data), we obtain a vertical resistivity profile that can fit the data.
+Setting the relevant expectation about what electromagnetic (EM) imaging can provide or NOT is critical before or after an EM survey.
+By combining the three other apps: 1) detectability, 2) inversion, 3) depth of investigation, this app provides a capability to evaluate the feasbility of the survey or the obtained resistivity model (after the survey). 
 
 ## Interactive App
 
-```{figure} #app-em-inversion
+```{figure} #app-survey-design
 ```
 
 ## Usage
@@ -25,6 +26,7 @@ Inversion is a process to find a model of subsurface resistivity that can fit th
 - `rho_b`: background resistivity
 - `rho`: layer resistivity
 - `% error`: percentage error
+- `threshold`: a threshold value to determine depth of investigation (DOI). 
 
 ### Plotting parameters
 

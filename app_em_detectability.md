@@ -14,7 +14,6 @@ where $N$ is the number of data; $F_i[\cdot]$ is a EM simulation operator calcul
 ## Interactive App
 
 ```{figure} #app-detectability
-Add a caption here
 ```
 
 ## Usage

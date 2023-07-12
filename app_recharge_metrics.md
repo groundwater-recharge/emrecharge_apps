@@ -6,7 +6,6 @@ subject: interactive app
 ## Interactive App
 
 ```{figure} #app-recharge-metrics
-Add a caption here
 ```
 
 ## Usage

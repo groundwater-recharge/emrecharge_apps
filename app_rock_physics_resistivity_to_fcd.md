@@ -6,7 +6,6 @@ subject: interactive app
 ## Interactive App
 
 ```{figure} #app-rock-physics-to-fcd
-Add a caption here
 ```
 
 ## Usage

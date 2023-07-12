@@ -8,7 +8,6 @@ Depth of investigation (DOI) indicates a depth where changes in resistivity valu
 ## Interactive App
 
 ```{figure} #app-depth-of-investigation
-Add a caption here
 ```
 
 ## Usage
