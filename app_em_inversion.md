@@ -8,6 +8,7 @@ Inversion is a process to find a model of subsurface resistivity that can fit th
 ## Interactive App
 
 ```{figure} #app-em-inversion
+:placeholder: ./placeholders/em_inversion.png
 ```
 
 ## Usage

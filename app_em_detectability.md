@@ -14,6 +14,8 @@ where $N$ is the number of data; $F_i[\cdot]$ is a EM simulation operator calcul
 ## Interactive App
 
 ```{figure} #app-detectability
+:placeholder: ./placeholders/em_detectability.png
+
 ```
 
 ## Usage
@@ -27,7 +29,7 @@ where $N$ is the number of data; $F_i[\cdot]$ is a EM simulation operator calcul
 - `rho_b`: background resistivity
 - `rho`: layer resistivity
 
-#### Plotting parameters
+### Plotting parameters
 
 - `Resistivity range`: range of resistivity shown in the left panel
 - `Depth range`: range of depth shown in the left panel
