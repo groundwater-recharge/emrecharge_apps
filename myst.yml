@@ -9,11 +9,12 @@ project:
     - name: Meredith Geobel
   github: https://github.com/groundwater-recharge/emrecharge_apps
   # bibliography: []
-  thebe:
-    binder:
-      url: https://recharge-educational-apps-hub.curvenote.dev/services/binder/
-      repo: groundwater-recharge/emrecharge_apps
-      ref: HEAD
+  jupyter:
+    server: true
+    # binder:
+    #   url: https://recharge-educational-apps-hub.curvenote.dev/services/binder/
+    #   repo: groundwater-recharge/emrecharge_apps
+    #   ref: HEAD
   abbreviations:
     DOI: Depth of Investigation
     AEM: Airbourne Electromagnetic
@@ -22,7 +23,8 @@ project:
 site:
   template: book-theme
   hide_toc: true
-  hide_footer: true
+  hide_outline: true
+  hide_footer_links: true
   title: Groundwater Recharge EM
   logo_text: Groundwater Recharge EM
   nav: []

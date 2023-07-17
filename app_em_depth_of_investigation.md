@@ -8,6 +8,7 @@ Depth of investigation (DOI) indicates a depth where changes in resistivity valu
 ## Interactive App
 
 ```{figure} #app-depth-of-investigation
+:placeholder: ./placeholders/em_doi.png
 ```
 
 ## Usage
@@ -24,7 +25,7 @@ Depth of investigation (DOI) indicates a depth where changes in resistivity valu
 - `% error`: percentage error
 - `threshold`: a threshold value to determine DOI.
 
-#### Plotting parameters
+### Plotting parameters
 
 - `Resistivity range`: range of resistivity shown in the left panel
 - `Depth range`: range of depth shown in the left panel

@@ -4,11 +4,12 @@ subject: interactive app
 ---
 
 Setting the relevant expectation about what electromagnetic (EM) imaging can provide or NOT is critical before or after an EM survey.
-By combining the three other apps: 1) detectability, 2) inversion, 3) depth of investigation, this app provides a capability to evaluate the feasbility of the survey or the obtained resistivity model (after the survey). 
+By combining the three other apps: 1) detectability, 2) inversion, 3) depth of investigation, this app provides a capability to evaluate the feasbility of the survey or the obtained resistivity model (after the survey).
 
 ## Interactive App
 
 ```{figure} #app-em-survey-design
+:placeholder: ./placeholders/em_survey_design.png
 ```
 
 ## Usage
@@ -26,7 +27,7 @@ By combining the three other apps: 1) detectability, 2) inversion, 3) depth of i
 - `rho_b`: background resistivity
 - `rho`: layer resistivity
 - `% error`: percentage error
-- `threshold`: a threshold value to determine depth of investigation (DOI). 
+- `threshold`: a threshold value to determine depth of investigation (DOI).
 
 ### Plotting parameters
 

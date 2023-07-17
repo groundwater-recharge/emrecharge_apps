@@ -6,6 +6,7 @@ subject: interactive app
 ## Interactive App
 
 ```{figure} #app-rock-physics-to-fcd
+:placeholder: ./placeholders/rock_physics_fcd.png
 ```
 
 ## Usage
