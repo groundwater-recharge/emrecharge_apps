@@ -6,7 +6,7 @@ subject: interactive app
 ## Interactive App
 
 ```{figure} #app-recharge-metrics
-:placeholders: ./placeholders/em_recharge_metrics.png
+:placeholder: ./placeholders/em_recharge.png
 ```
 
 ## Usage
