@@ -24,7 +24,7 @@ site:
   template: book-theme
   hide_toc: true
   hide_outline: true
-  hide_footer: true
+  hide_footer_links: true
   title: Groundwater Recharge EM
   logo_text: Groundwater Recharge EM
   nav: []
