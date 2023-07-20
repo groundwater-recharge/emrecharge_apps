@@ -1,3 +1,5 @@
 # Interactive Educational Applications
 
-Educational applications for the groundwater recharge project.
+Interactive educational apps were developed to guide the use of our web-application - fastpath 
+
+[](./app_em_depth_of_investigation.md)
