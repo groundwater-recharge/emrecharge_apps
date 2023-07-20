@@ -8,23 +8,23 @@ These combined datasets enable the creation of 2D maps showcasing recharge metri
 
 EM Imaging Apps are dedicated to explaining the fundamentals of EM imaging. Users can explore how this geophysical technique works and how it facilitates the acquisition of essential data for recharge site analysis.
 
-[](./app_em_detectability.md)
-[](./app_em_inversion.md)
-[](./app_em_depth_of_investigation.md)
-[](./app_em_survey_design.md)
+- [](./app_em_detectability.md)
+- [](./app_em_inversion.md)
+- [](./app_em_depth_of_investigation.md)
+- [](./app_em_survey_design.md)
 
 ## Rock Physics Apps
 
 Rock Physics Apps focuse on the rock physics transform, which involves the conversion of resistivity data to sediment type information. Users can gain insights into the complex process of translating geophysical data into meaningful geological characteristics, aiding in the assessment of potential recharge sites.
 
-[](./app_rock_physics_resistivity.md)
-[](./app_rock_physics_resistivity_to_fcd.md)
+- [](./app_rock_physics_resistivity.md)
+- [](./app_rock_physics_resistivity_to_fcd.md)
 
 ## Recharge Metrics App
 
 The final interactive app leads users through the process of creating comprehensive maps of recharge metrics. By combining the EM imaging data and the rock physics transform results, users can obtain a clearer picture of the most suitable areas for recharge, maximizing the effectiveness of their decisions.
 
-[](./app_recharge_metrics.md)
+- [](./app_recharge_metrics.md)
 
 
 :::{attention}
