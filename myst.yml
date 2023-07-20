@@ -10,11 +10,11 @@ project:
   github: https://github.com/groundwater-recharge/emrecharge_apps
   # bibliography: []
   jupyter:
-    server: true
-    # binder:
-    #   url: https://recharge-educational-apps-hub.curvenote.dev/services/binder/
-    #   repo: groundwater-recharge/emrecharge_apps
-    #   ref: HEAD
+    # server: true
+    binder:
+      url: https://recharge-educational-apps-hub.curvenote.dev/services/binder/
+      repo: groundwater-recharge/emrecharge_apps
+      ref: HEAD
   abbreviations:
     DOI: Depth of Investigation
     AEM: Airbourne Electromagnetic
