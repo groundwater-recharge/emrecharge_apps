@@ -28,6 +28,7 @@ site:
   title: Educational Apps
   logo_text: Educational Apps
   nav: []
+  analytics_google: G-12JVD83LP3
   actions:
     - title: Learn More
       url: https://mystmd.org/guide
