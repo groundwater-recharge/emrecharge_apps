@@ -11,6 +11,10 @@ This app provides a capability to explore detectability of a target layer using 
 
 where $N$ is the number of data; $F_i[\cdot]$ is a EM simulation operator calculating EM datum at i-th time channel; $\rho_{1}$ and $\rho_{2}$ are vertical resistivity profiles. For instance, $\rho_{1}$ and $\rho_{2}$ could correspond $\rho_{\text{layer}}$, a vertical resistivity profile with a layer, and $\rho_{\text{b}}$, a homogenous background resistivity, respectively. In such a case, _the detectability is an anomalous layer response normalized by the background response in percentage_.
 
+:::{important}
+To launch the compute server used to run this app, click on the power button on the upper right hand corner of the application pane. After a moment, the icon will be replaced with three new icons. The filled in lightning bolt indicates that the application is displaying its default settings. Click the play button to run the application (this will enable you to change values, and interact with the figures). Note that after clicking the play button, the lightning bolt will only show and outline, indicating the figures displayed may not be the defaults. Finally, click the return arrow if you would like to reset the app to its default settings.
+:::
+
 ## Interactive App
 
 ```{figure} #app-detectability

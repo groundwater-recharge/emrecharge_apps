@@ -5,6 +5,11 @@ subject: interactive app
 
 Depth of investigation (DOI) indicates a depth where changes in resistivity values does not make noticeable changes in the observed EM data. This app provides a way to estimate DOI. Generally, DOI is dependent upon EM system, level of data errors/noise, and subsurface resistivity. This tool provides a capability to explore how DOI changes with above three factors.
 
+:::{important}
+To launch the compute server used to run this app, click on the power button on the upper right hand corner of the application pane. After a moment, the icon will be replaced with three new icons. The filled in lightning bolt indicates that the application is displaying its default settings. Click the play button to run the application (this will enable you to change values, and interact with the figures). Note that after clicking the play button, the lightning bolt will only show and outline, indicating the figures displayed may not be the defaults. Finally, click the return arrow if you would like to reset the app to its default settings.
+:::
+
+
 ## Interactive App
 
 ```{figure} #app-depth-of-investigation

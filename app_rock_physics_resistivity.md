@@ -5,6 +5,13 @@ short_title: Resistivity Distribution
 subject: interactive app
 ---
 
+This app illustrates the process of creating resistivity distributions of two sediment types: coarse-(grained)dominated and fine-(grained)domianted from colocated resistivity data (geophysics) and sediment type data (in-situ). You will identify an impact of colocation radious and an approach to set a vertical interval of colocated data (`interval` vs. `integral`).
+
+:::{important}
+To launch the compute server used to run this app, click on the power button on the upper right hand corner of the application pane. After a moment, the icon will be replaced with three new icons. The filled in lightning bolt indicates that the application is displaying its default settings. Click the play button to run the application (this will enable you to change values, and interact with the figures). Note that after clicking the play button, the lightning bolt will only show and outline, indicating the figures displayed may not be the defaults. Finally, click the return arrow if you would like to reset the app to its default settings.
+:::
+
+
 ## Interactive App
 
 From elecgtromagnetic (EM) imaging, we can obtain an image of the subsurface resistivity.
