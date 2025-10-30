@@ -12,7 +12,7 @@ project:
   jupyter:
     # server: true
     binder:
-      url: https://recharge-educational-apps-hub.curvenote.dev/services/binder/
+      url: https://mybinder.org/
       repo: groundwater-recharge/emrecharge_apps
       ref: HEAD
   abbreviations:
